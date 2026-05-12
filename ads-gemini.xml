@@ -1,0 +1,12 @@
+<VAST version="4.0">
+  <Ad id="20011">
+    <Wrapper>
+      <AdSystem>AdServer</AdSystem>
+      <Impression>http://example.com</Impression>
+      <VASTAdTagURI>
+        <![CDATA[https://n2j9y0x0.bxcdn.net/library/940460/8f1ab6fd40cb27cba71db1229c250d6bce1f8b68.mp4]]>
+      </VASTAdTagURI>
+      <Creatives/>
+    </Wrapper>
+  </Ad>
+</VAST>
